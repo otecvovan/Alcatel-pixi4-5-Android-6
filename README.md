@@ -1,0 +1,1 @@
+# Alcatel-pixi4-5-Android-6
