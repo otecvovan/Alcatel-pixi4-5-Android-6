@@ -1,0 +1,11 @@
+
+
+&auxadc {
+	adc_channel@ {
+		compatible = "mediatek,adc_channel";
+		mediatek,temperature0 = <0>;
+		mediatek,temperature1 = <1>;
+		mediatek,adc_fdd_rf_params_dynamic_custom_ch = <12>;
+		status = "okay";
+	};
+};
